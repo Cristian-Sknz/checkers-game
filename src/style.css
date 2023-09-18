@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Rocher';
+    src: url('./assets/fonts/RocherColorGX.woff2');
+}
+
+:root {
+    font-family: Poppins, sans-serif;
+    background-color: black;
+    user-select: none;
+}
+
+@font-palette-values --Grays {
+    font-family: Rocher;
+    base-palette: 9;
+}
+
+@font-palette-values --Purples {
+    font-family: Rocher;
+    base-palette: 6;
+}
+
+@font-palette-values --Mint {
+    font-family: Rocher;
+    base-palette: 7;
+}
