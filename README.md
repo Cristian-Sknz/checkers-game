@@ -16,7 +16,7 @@ Este projeto não foi finalizado pois eu havia alcançado o meu objetivo inicial
 
 #### Regras basicas do jogo
 
-Foi implementada a versão de 64 casas do jogo (conhecida por dama brasileira), onde o jogador que coletar todas as peças ou impossibilitar o oponente de jogar ganha. Peças que conseguirem invadir o tabuleiro inimigo viram damas, assim como as regras basicas do jogo.
+Foi implementada a versão de 64 casas do jogo (conhecida como dama brasileira), na qual o objetivo é coletar todas as peças do oponente ou impossibilitá-lo de fazer movimentos. As peças que conseguirem invadir o território inimigo se transformam em damas, seguindo as regras básicas do jogo.
 
 #### Algumas funcionalidades pensadas e parcialmente implementadas
 
